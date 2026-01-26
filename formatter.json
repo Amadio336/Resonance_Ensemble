@@ -1,0 +1,72 @@
+[
+  {
+    "SubVoce": "παρωθέω",
+    "category": "verb"
+  },
+  {
+    "SubVoce": "δεσπότης",
+    "category": "noun",
+    "decl": "1st",
+    "case": "nominative",
+    "num": "singular",
+    "gend": "masculine"
+  },
+  {
+    "SubVoce": "κακός",
+    "category": "adjective"
+  },
+  {
+    "SubVoce": "λέγω3",
+    "category": "verb"
+  },
+  {
+    "SubVoce": "ὡς",
+    "category": "conjunction"
+  },
+  {
+    "SubVoce": "φάρμακος",
+    "category": "noun",
+    "decl": "2nd",
+    "case": "dative",
+    "num": "plural",
+    "gend": "masculine"
+  },
+  {},
+  {},
+  {
+    "SubVoce": "πρῶτος",
+    "category": "adjective"
+  },
+  {
+    "SubVoce": "δέχομαι",
+    "category": "verb"
+  },
+  {
+    "SubVoce": "σπάρτη",
+    "category": "noun",
+    "decl": "1st",
+    "case": "genitive",
+    "num": "singular",
+    "gend": "feminine"
+  },
+  {
+    "SubVoce": "δόμος",
+    "category": "noun",
+    "decl": "2nd",
+    "case": "genitive",
+    "num": "plural",
+    "gend": "masculine"
+  },
+  {
+    "SubVoce": "θάσσω",
+    "category": "verb"
+  },
+  {
+    "SubVoce": "ἐάν",
+    "category": "conjunction"
+  },
+  {
+    "SubVoce": "κωλύω",
+    "category": "verb"
+  }
+]

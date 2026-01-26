@@ -1,0 +1,352 @@
+[
+    {
+        "RDF": {
+            "Annotation": {
+                "about": "urn:TuftsMorphologyService:ὦ:morpheusgrc",
+                "creator": {
+                    "Agent": {
+                        "about": "org.perseus:tools:morpheus.v1"
+                    }
+                },
+                "created": {
+                    "$": "2020-01-01T00:00:00.000000"
+                },
+                "hasTarget": {
+                    "Description": {
+                        "about": "urn:word:ὦ"
+                    }
+                },
+                "title": {},
+                "hasBody": [
+                    {
+                        "resource": "urn:uuid:idm55706c36fa49dc6b15f38edb0e2b2a008a366e91da0c2c9fd748f7964aaa3d05"
+                    },
+                    {
+                        "resource": "urn:uuid:idm3a8dbbd7c95a7acc1c0e7e0a6a07e8047df902ef919a7f7041a4a22460991866"
+                    }
+                ],
+                "Body": [
+                    {
+                        "about": "urn:uuid:idm55706c36fa49dc6b15f38edb0e2b2a008a366e91da0c2c9fd748f7964aaa3d05",
+                        "type": {
+                            "resource": "cnt:ContentAsXML"
+                        },
+                        "rest": {
+                            "entry": {
+                                "uri": null,
+                                "dict": {
+                                    "hdwd": {
+                                        "lang": "grc",
+                                        "$": "εἰμί"
+                                    },
+                                    "pofs": {
+                                        "order": 1,
+                                        "$": "verb"
+                                    }
+                                },
+                                "infl": {
+                                    "term": {
+                                        "lang": "grc",
+                                        "stem": {
+                                            "$": "ὦ"
+                                        }
+                                    },
+                                    "pofs": {
+                                        "order": 1,
+                                        "$": "verb"
+                                    },
+                                    "mood": {
+                                        "$": "subjunctive"
+                                    },
+                                    "num": {
+                                        "$": "singular"
+                                    },
+                                    "pers": {
+                                        "$": "1st"
+                                    },
+                                    "tense": {
+                                        "$": "present"
+                                    },
+                                    "voice": {
+                                        "$": "active"
+                                    },
+                                    "dial": {
+                                        "$": "Attic epic Doric"
+                                    },
+                                    "stemtype": {
+                                        "$": "irreg_mi"
+                                    },
+                                    "morph": {
+                                        "$": "contr"
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    {
+                        "about": "urn:uuid:idm3a8dbbd7c95a7acc1c0e7e0a6a07e8047df902ef919a7f7041a4a22460991866",
+                        "type": {
+                            "resource": "cnt:ContentAsXML"
+                        },
+                        "rest": {
+                            "entry": {
+                                "uri": null,
+                                "dict": {
+                                    "hdwd": {
+                                        "lang": "grc",
+                                        "$": "ὦ"
+                                    },
+                                    "pofs": {
+                                        "order": 0,
+                                        "$": "exclamation"
+                                    }
+                                },
+                                "infl": {
+                                    "term": {
+                                        "lang": "grc",
+                                        "stem": {
+                                            "$": "ὦ"
+                                        }
+                                    },
+                                    "pofs": {
+                                        "order": 0,
+                                        "$": "exclamation"
+                                    },
+                                    "stemtype": {
+                                        "$": "exclam"
+                                    },
+                                    "morph": {
+                                        "$": "indeclform"
+                                    }
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "RDF": {
+            "Annotation": {
+                "about": "urn:TuftsMorphologyService:ὀλίγου:morpheusgrc",
+                "creator": {
+                    "Agent": {
+                        "about": "org.perseus:tools:morpheus.v1"
+                    }
+                },
+                "created": {
+                    "$": "2020-01-01T00:00:00.000000"
+                },
+                "hasTarget": {
+                    "Description": {
+                        "about": "urn:word:ὀλίγου"
+                    }
+                },
+                "title": {},
+                "hasBody": [
+                    {
+                        "resource": "urn:uuid:idm0219db38b6200e69b9d9ae0baa53bdfeeaacdcb414381a7b5ad54356ea22cb6b"
+                    },
+                    {
+                        "resource": "urn:uuid:idm48932ce0f73ac0a8de3586382bfa571f69a2ff0ca0a548257f6fb16220463290"
+                    }
+                ],
+                "Body": [
+                    {
+                        "about": "urn:uuid:idm0219db38b6200e69b9d9ae0baa53bdfeeaacdcb414381a7b5ad54356ea22cb6b",
+                        "type": {
+                            "resource": "cnt:ContentAsXML"
+                        },
+                        "rest": {
+                            "entry": {
+                                "uri": null,
+                                "dict": {
+                                    "hdwd": {
+                                        "lang": "grc",
+                                        "$": "ὀλίγος"
+                                    },
+                                    "pofs": {
+                                        "order": 2,
+                                        "$": "adjective"
+                                    },
+                                    "decl": {
+                                        "$": "1st & 2nd"
+                                    }
+                                },
+                                "infl": [
+                                    {
+                                        "term": {
+                                            "lang": "grc",
+                                            "stem": {
+                                                "$": "ὀλιγ"
+                                            },
+                                            "suff": {
+                                                "$": "ου"
+                                            }
+                                        },
+                                        "pofs": {
+                                            "order": 2,
+                                            "$": "adjective"
+                                        },
+                                        "decl": {
+                                            "$": "1st & 2nd"
+                                        },
+                                        "case": {
+                                            "order": 6,
+                                            "$": "genitive"
+                                        },
+                                        "gend": {
+                                            "$": "masculine"
+                                        },
+                                        "num": {
+                                            "$": "singular"
+                                        },
+                                        "stemtype": {
+                                            "$": "os_h_on"
+                                        }
+                                    },
+                                    {
+                                        "term": {
+                                            "lang": "grc",
+                                            "stem": {
+                                                "$": "ὀλιγ"
+                                            },
+                                            "suff": {
+                                                "$": "ου"
+                                            }
+                                        },
+                                        "pofs": {
+                                            "order": 2,
+                                            "$": "adjective"
+                                        },
+                                        "decl": {
+                                            "$": "1st & 2nd"
+                                        },
+                                        "case": {
+                                            "order": 6,
+                                            "$": "genitive"
+                                        },
+                                        "gend": {
+                                            "$": "neuter"
+                                        },
+                                        "num": {
+                                            "$": "singular"
+                                        },
+                                        "stemtype": {
+                                            "$": "os_h_on"
+                                        }
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "about": "urn:uuid:idm48932ce0f73ac0a8de3586382bfa571f69a2ff0ca0a548257f6fb16220463290",
+                        "type": {
+                            "resource": "cnt:ContentAsXML"
+                        },
+                        "rest": {
+                            "entry": {
+                                "uri": null,
+                                "dict": {
+                                    "hdwd": {
+                                        "lang": "grc",
+                                        "$": "ὀλιγόω"
+                                    },
+                                    "pofs": {
+                                        "order": 1,
+                                        "$": "verb"
+                                    }
+                                },
+                                "infl": [
+                                    {
+                                        "term": {
+                                            "lang": "grc",
+                                            "stem": {
+                                                "$": "ὀλιγ"
+                                            },
+                                            "suff": {
+                                                "$": "ου"
+                                            }
+                                        },
+                                        "pofs": {
+                                            "order": 1,
+                                            "$": "verb"
+                                        },
+                                        "mood": {
+                                            "$": "imperative"
+                                        },
+                                        "num": {
+                                            "$": "singular"
+                                        },
+                                        "pers": {
+                                            "$": "2nd"
+                                        },
+                                        "tense": {
+                                            "$": "present"
+                                        },
+                                        "voice": {
+                                            "$": "active"
+                                        },
+                                        "stemtype": {
+                                            "$": "ow_pr"
+                                        },
+                                        "derivtype": {
+                                            "$": "ow_denom"
+                                        },
+                                        "morph": {
+                                            "$": "contr"
+                                        }
+                                    },
+                                    {
+                                        "term": {
+                                            "lang": "grc",
+                                            "stem": {
+                                                "$": "ὀλιγ"
+                                            },
+                                            "suff": {
+                                                "$": "ου"
+                                            }
+                                        },
+                                        "pofs": {
+                                            "order": 1,
+                                            "$": "verb"
+                                        },
+                                        "mood": {
+                                            "$": "indicative"
+                                        },
+                                        "num": {
+                                            "$": "singular"
+                                        },
+                                        "pers": {
+                                            "$": "3rd"
+                                        },
+                                        "tense": {
+                                            "$": "imperfect"
+                                        },
+                                        "voice": {
+                                            "$": "active"
+                                        },
+                                        "dial": {
+                                            "$": "Homeric Ionic"
+                                        },
+                                        "stemtype": {
+                                            "$": "ow_pr"
+                                        },
+                                        "derivtype": {
+                                            "$": "ow_denom"
+                                        },
+                                        "morph": {
+                                            "$": "contr unaugmented"
+                                        }
+                                    }
+                                ]
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    }
+]

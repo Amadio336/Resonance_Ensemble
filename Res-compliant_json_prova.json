@@ -1,0 +1,22 @@
+[
+    {
+        "SubVoce": "παρωθέω",
+        "category": "verb"
+    },
+    {
+        "SubVoce": "δεσπότης",
+        "category": "noun",
+        "decl": "1st",
+        "case": "nominative",
+        "num": "singular",
+        "gend": "masculine"
+    },
+    {
+        "SubVoce": "κακός",
+        "category": "adjective"
+    },
+    {
+        "SubVoce": "λέγω3",
+        "category": "verb"
+    }
+]

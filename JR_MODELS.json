@@ -1,0 +1,62 @@
+[
+    {
+        "comments": "In this json file you'll find every model for every POS. The POSs taken in consideration are: adjs ✔, nouns ✔, verbs ✔, particles ✔,  pronouns ✔ , article ✔ , conjunction ✔ . Every element must have a category, subVoce,tras value"
+    },
+    {
+        "category": "adjective",
+        "SubVoce": "πᾶς",
+        "decl": "3rd",
+        "case": "nominative",
+        "num": "singular",
+        "gend": "masculine",
+        "tras": "all",
+        "id": 120
+    },
+    {
+        "category": "noun",
+        "SubVoce": "ἀλήθεια",
+        "decl": "1st",
+        "num": "singular",
+        "gend": "feminine",
+        "tras": "truth",
+        "id": 122
+    },
+    {
+        "category": "verb",
+        "SubVoce": "ἀκούω",
+        "mood": "indicative",
+        "tense": "future",
+        "person": "1st",
+        "num": "singular",
+        "tras": "to hear",
+        "id": 111
+    },
+    {
+        "category": "particle",
+        "SubVoce": "μέν",
+        "tras": "so",
+        "id": 1
+    },
+    {
+        "category": "article",
+        "SubVoce": "ὁ",
+        "case": "nominative",
+        "gend": "masculine",
+        "num": "singular",
+        "tras": "the",
+        "id": 8
+    },
+    {
+        "SubVoce": "ὡς",
+        "category": "conjunction",
+        "id": 29
+    },
+    {
+        "category": "pronoun",
+        "SubVoce": "οὗτος",
+        "case": "nominative",
+        "gend": "masculine",
+        "num":"singular",
+        "id": 75
+    }
+]

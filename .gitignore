@@ -1,0 +1,13 @@
+# Excluding venv
+venv3.12/
+
+# Excluding python cache
+__pycache__/
+*.pyc
+
+# Excluding Odycy Models
+modelli Odycy
+
+
+# Excluding .DS_Store
+.DS_Store

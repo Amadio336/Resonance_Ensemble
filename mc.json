@@ -1,0 +1,764 @@
+[
+    {
+        "RDF": {
+            "Annotation": {
+                "about": "urn:TuftsMorphologyService:τοὐμὸν:morpheusgrc",
+                "creator": {
+                    "Agent": {
+                        "about": "org.perseus:tools:morpheus.v1"
+                    }
+                },
+                "created": {
+                    "$": "2020-01-01T00:00:00.000000"
+                },
+                "hasTarget": {
+                    "Description": {
+                        "about": "urn:word:τοὐμὸν"
+                    }
+                },
+                "title": {},
+                "hasBody": {
+                    "resource": "urn:uuid:idm9129a73e7683acd90a9d91df00167df0bf65dcbc809536c043c9d303aa59f3d7"
+                },
+                "Body": {
+                    "about": "urn:uuid:idm9129a73e7683acd90a9d91df00167df0bf65dcbc809536c043c9d303aa59f3d7",
+                    "type": {
+                        "resource": "cnt:ContentAsXML"
+                    },
+                    "rest": {
+                        "entry": {
+                            "uri": null,
+                            "dict": {
+                                "hdwd": {
+                                    "lang": "grc",
+                                    "$": "ἐμός"
+                                },
+                                "pofs": {
+                                    "order": 2,
+                                    "$": "adjective"
+                                },
+                                "decl": {
+                                    "$": "1st & 2nd"
+                                }
+                            },
+                            "infl": [
+                                {
+                                    "term": {
+                                        "lang": "grc",
+                                        "stem": {
+                                            "$": "ἐμ"
+                                        },
+                                        "suff": {
+                                            "$": "ον"
+                                        }
+                                    },
+                                    "pofs": {
+                                        "order": 2,
+                                        "$": "adjective"
+                                    },
+                                    "decl": {
+                                        "$": "1st & 2nd"
+                                    },
+                                    "case": {
+                                        "order": 4,
+                                        "$": "accusative"
+                                    },
+                                    "gend": {
+                                        "$": "masculine"
+                                    },
+                                    "num": {
+                                        "$": "singular"
+                                    },
+                                    "stemtype": {
+                                        "$": "os_h_on"
+                                    }
+                                },
+                                {
+                                    "term": {
+                                        "lang": "grc",
+                                        "stem": {
+                                            "$": "ἐμ"
+                                        },
+                                        "suff": {
+                                            "$": "ον"
+                                        }
+                                    },
+                                    "pofs": {
+                                        "order": 2,
+                                        "$": "adjective"
+                                    },
+                                    "decl": {
+                                        "$": "1st & 2nd"
+                                    },
+                                    "case": {
+                                        "order": 7,
+                                        "$": "nominative"
+                                    },
+                                    "gend": {
+                                        "$": "neuter"
+                                    },
+                                    "num": {
+                                        "$": "singular"
+                                    },
+                                    "stemtype": {
+                                        "$": "os_h_on"
+                                    }
+                                },
+                                {
+                                    "term": {
+                                        "lang": "grc",
+                                        "stem": {
+                                            "$": "ἐμ"
+                                        },
+                                        "suff": {
+                                            "$": "ον"
+                                        }
+                                    },
+                                    "pofs": {
+                                        "order": 2,
+                                        "$": "adjective"
+                                    },
+                                    "decl": {
+                                        "$": "1st & 2nd"
+                                    },
+                                    "case": {
+                                        "order": 1,
+                                        "$": "vocative"
+                                    },
+                                    "gend": {
+                                        "$": "neuter"
+                                    },
+                                    "num": {
+                                        "$": "singular"
+                                    },
+                                    "stemtype": {
+                                        "$": "os_h_on"
+                                    }
+                                },
+                                {
+                                    "term": {
+                                        "lang": "grc",
+                                        "stem": {
+                                            "$": "ἐμ"
+                                        },
+                                        "suff": {
+                                            "$": "ον"
+                                        }
+                                    },
+                                    "pofs": {
+                                        "order": 2,
+                                        "$": "adjective"
+                                    },
+                                    "decl": {
+                                        "$": "1st & 2nd"
+                                    },
+                                    "case": {
+                                        "order": 4,
+                                        "$": "accusative"
+                                    },
+                                    "gend": {
+                                        "$": "neuter"
+                                    },
+                                    "num": {
+                                        "$": "singular"
+                                    },
+                                    "stemtype": {
+                                        "$": "os_h_on"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            }
+        }
+    },
+    {
+        "RDF": {
+            "Annotation": {
+                "about": "urn:TuftsMorphologyService:δοῦλον:morpheusgrc",
+                "creator": {
+                    "Agent": {
+                        "about": "org.perseus:tools:morpheus.v1"
+                    }
+                },
+                "created": {
+                    "$": "2020-01-01T00:00:00.000000"
+                },
+                "hasTarget": {
+                    "Description": {
+                        "about": "urn:word:δοῦλον"
+                    }
+                },
+                "title": {},
+                "hasBody": {
+                    "resource": "urn:uuid:idm6b74c1d795645aebf1b8887a5711db79aaa34b8426d2f5c37a5eb44ae8275b6e"
+                },
+                "Body": {
+                    "about": "urn:uuid:idm6b74c1d795645aebf1b8887a5711db79aaa34b8426d2f5c37a5eb44ae8275b6e",
+                    "type": {
+                        "resource": "cnt:ContentAsXML"
+                    },
+                    "rest": {
+                        "entry": {
+                            "uri": null,
+                            "dict": {
+                                "hdwd": {
+                                    "lang": "grc",
+                                    "$": "δοῦλος"
+                                },
+                                "pofs": {
+                                    "order": 2,
+                                    "$": "adjective"
+                                },
+                                "decl": {
+                                    "$": "1st & 2nd"
+                                }
+                            },
+                            "infl": [
+                                {
+                                    "term": {
+                                        "lang": "grc",
+                                        "stem": {
+                                            "$": "δουλ"
+                                        },
+                                        "suff": {
+                                            "$": "ον"
+                                        }
+                                    },
+                                    "pofs": {
+                                        "order": 2,
+                                        "$": "adjective"
+                                    },
+                                    "decl": {
+                                        "$": "1st & 2nd"
+                                    },
+                                    "case": {
+                                        "order": 4,
+                                        "$": "accusative"
+                                    },
+                                    "gend": {
+                                        "$": "masculine"
+                                    },
+                                    "num": {
+                                        "$": "singular"
+                                    },
+                                    "stemtype": {
+                                        "$": "os_h_on"
+                                    }
+                                },
+                                {
+                                    "term": {
+                                        "lang": "grc",
+                                        "stem": {
+                                            "$": "δουλ"
+                                        },
+                                        "suff": {
+                                            "$": "ον"
+                                        }
+                                    },
+                                    "pofs": {
+                                        "order": 2,
+                                        "$": "adjective"
+                                    },
+                                    "decl": {
+                                        "$": "1st & 2nd"
+                                    },
+                                    "case": {
+                                        "order": 7,
+                                        "$": "nominative"
+                                    },
+                                    "gend": {
+                                        "$": "neuter"
+                                    },
+                                    "num": {
+                                        "$": "singular"
+                                    },
+                                    "stemtype": {
+                                        "$": "os_h_on"
+                                    }
+                                },
+                                {
+                                    "term": {
+                                        "lang": "grc",
+                                        "stem": {
+                                            "$": "δουλ"
+                                        },
+                                        "suff": {
+                                            "$": "ον"
+                                        }
+                                    },
+                                    "pofs": {
+                                        "order": 2,
+                                        "$": "adjective"
+                                    },
+                                    "decl": {
+                                        "$": "1st & 2nd"
+                                    },
+                                    "case": {
+                                        "order": 1,
+                                        "$": "vocative"
+                                    },
+                                    "gend": {
+                                        "$": "neuter"
+                                    },
+                                    "num": {
+                                        "$": "singular"
+                                    },
+                                    "stemtype": {
+                                        "$": "os_h_on"
+                                    }
+                                },
+                                {
+                                    "term": {
+                                        "lang": "grc",
+                                        "stem": {
+                                            "$": "δουλ"
+                                        },
+                                        "suff": {
+                                            "$": "ον"
+                                        }
+                                    },
+                                    "pofs": {
+                                        "order": 2,
+                                        "$": "adjective"
+                                    },
+                                    "decl": {
+                                        "$": "1st & 2nd"
+                                    },
+                                    "case": {
+                                        "order": 4,
+                                        "$": "accusative"
+                                    },
+                                    "gend": {
+                                        "$": "neuter"
+                                    },
+                                    "num": {
+                                        "$": "singular"
+                                    },
+                                    "stemtype": {
+                                        "$": "os_h_on"
+                                    }
+                                },
+                                {
+                                    "term": {
+                                        "lang": "grc",
+                                        "stem": {
+                                            "$": "δουλ"
+                                        },
+                                        "suff": {
+                                            "$": "ον"
+                                        }
+                                    },
+                                    "pofs": {
+                                        "order": 3,
+                                        "$": "noun"
+                                    },
+                                    "decl": {
+                                        "$": "2nd"
+                                    },
+                                    "case": {
+                                        "order": 4,
+                                        "$": "accusative"
+                                    },
+                                    "gend": {
+                                        "$": "masculine"
+                                    },
+                                    "num": {
+                                        "$": "singular"
+                                    },
+                                    "stemtype": {
+                                        "$": "os_ou"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            }
+        }
+    },
+    {
+        "RDF": {
+            "Annotation": {
+                "about": "urn:TuftsMorphologyService:λέχος:morpheusgrc",
+                "creator": {
+                    "Agent": {
+                        "about": "org.perseus:tools:morpheus.v1"
+                    }
+                },
+                "created": {
+                    "$": "2020-01-01T00:00:00.000000"
+                },
+                "hasTarget": {
+                    "Description": {
+                        "about": "urn:word:λέχος"
+                    }
+                },
+                "title": {},
+                "hasBody": {
+                    "resource": "urn:uuid:idmede233baea2d6197dfc1d233635d3dd3e1cfdd317b247f56ece9ba6e1f5f64d4"
+                },
+                "Body": {
+                    "about": "urn:uuid:idmede233baea2d6197dfc1d233635d3dd3e1cfdd317b247f56ece9ba6e1f5f64d4",
+                    "type": {
+                        "resource": "cnt:ContentAsXML"
+                    },
+                    "rest": {
+                        "entry": {
+                            "uri": null,
+                            "dict": {
+                                "hdwd": {
+                                    "lang": "grc",
+                                    "$": "λέχος"
+                                },
+                                "pofs": {
+                                    "order": 3,
+                                    "$": "noun"
+                                },
+                                "decl": {
+                                    "$": "3rd"
+                                },
+                                "gend": {
+                                    "$": "neuter"
+                                }
+                            },
+                            "infl": [
+                                {
+                                    "term": {
+                                        "lang": "grc",
+                                        "stem": {
+                                            "$": "λεχ"
+                                        },
+                                        "suff": {
+                                            "$": "ος"
+                                        }
+                                    },
+                                    "pofs": {
+                                        "order": 3,
+                                        "$": "noun"
+                                    },
+                                    "decl": {
+                                        "$": "3rd"
+                                    },
+                                    "case": {
+                                        "order": 7,
+                                        "$": "nominative"
+                                    },
+                                    "gend": {
+                                        "$": "neuter"
+                                    },
+                                    "num": {
+                                        "$": "singular"
+                                    },
+                                    "stemtype": {
+                                        "$": "hs_eos"
+                                    }
+                                },
+                                {
+                                    "term": {
+                                        "lang": "grc",
+                                        "stem": {
+                                            "$": "λεχ"
+                                        },
+                                        "suff": {
+                                            "$": "ος"
+                                        }
+                                    },
+                                    "pofs": {
+                                        "order": 3,
+                                        "$": "noun"
+                                    },
+                                    "decl": {
+                                        "$": "3rd"
+                                    },
+                                    "case": {
+                                        "order": 1,
+                                        "$": "vocative"
+                                    },
+                                    "gend": {
+                                        "$": "neuter"
+                                    },
+                                    "num": {
+                                        "$": "singular"
+                                    },
+                                    "stemtype": {
+                                        "$": "hs_eos"
+                                    }
+                                },
+                                {
+                                    "term": {
+                                        "lang": "grc",
+                                        "stem": {
+                                            "$": "λεχ"
+                                        },
+                                        "suff": {
+                                            "$": "ος"
+                                        }
+                                    },
+                                    "pofs": {
+                                        "order": 3,
+                                        "$": "noun"
+                                    },
+                                    "decl": {
+                                        "$": "3rd"
+                                    },
+                                    "case": {
+                                        "order": 4,
+                                        "$": "accusative"
+                                    },
+                                    "gend": {
+                                        "$": "neuter"
+                                    },
+                                    "num": {
+                                        "$": "singular"
+                                    },
+                                    "stemtype": {
+                                        "$": "hs_eos"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            }
+        }
+    },
+    {
+        "RDF": {
+            "Annotation": {
+                "about": "urn:TuftsMorphologyService:σχετλίοις:morpheusgrc",
+                "creator": {
+                    "Agent": {
+                        "about": "org.perseus:tools:morpheus.v1"
+                    }
+                },
+                "created": {
+                    "$": "2020-01-01T00:00:00.000000"
+                },
+                "hasTarget": {
+                    "Description": {
+                        "about": "urn:word:σχετλίοις"
+                    }
+                },
+                "title": {},
+                "hasBody": {
+                    "resource": "urn:uuid:idmf3f94c0e482efdb12319e0ad0aab8de99221e48a4be5d797ecaae074f76823d2"
+                },
+                "Body": {
+                    "about": "urn:uuid:idmf3f94c0e482efdb12319e0ad0aab8de99221e48a4be5d797ecaae074f76823d2",
+                    "type": {
+                        "resource": "cnt:ContentAsXML"
+                    },
+                    "rest": {
+                        "entry": {
+                            "uri": null,
+                            "dict": {
+                                "hdwd": {
+                                    "lang": "grc",
+                                    "$": "σχέτλιος"
+                                },
+                                "pofs": {
+                                    "order": 2,
+                                    "$": "adjective"
+                                },
+                                "decl": {
+                                    "$": "1st & 2nd"
+                                }
+                            },
+                            "infl": [
+                                {
+                                    "term": {
+                                        "lang": "grc",
+                                        "stem": {
+                                            "$": "σχετλι"
+                                        },
+                                        "suff": {
+                                            "$": "οις"
+                                        }
+                                    },
+                                    "pofs": {
+                                        "order": 2,
+                                        "$": "adjective"
+                                    },
+                                    "decl": {
+                                        "$": "1st & 2nd"
+                                    },
+                                    "case": {
+                                        "order": 5,
+                                        "$": "dative"
+                                    },
+                                    "gend": {
+                                        "$": "masculine"
+                                    },
+                                    "num": {
+                                        "$": "plural"
+                                    },
+                                    "stemtype": {
+                                        "$": "os_h_on"
+                                    }
+                                },
+                                {
+                                    "term": {
+                                        "lang": "grc",
+                                        "stem": {
+                                            "$": "σχετλι"
+                                        },
+                                        "suff": {
+                                            "$": "οις"
+                                        }
+                                    },
+                                    "pofs": {
+                                        "order": 2,
+                                        "$": "adjective"
+                                    },
+                                    "decl": {
+                                        "$": "1st & 2nd"
+                                    },
+                                    "case": {
+                                        "order": 5,
+                                        "$": "dative"
+                                    },
+                                    "gend": {
+                                        "$": "neuter"
+                                    },
+                                    "num": {
+                                        "$": "plural"
+                                    },
+                                    "stemtype": {
+                                        "$": "os_h_on"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            }
+        }
+    },
+    {
+        "RDF": {
+            "Annotation": {
+                "about": "urn:TuftsMorphologyService:ἐλαύνομαι:morpheusgrc",
+                "creator": {
+                    "Agent": {
+                        "about": "org.perseus:tools:morpheus.v1"
+                    }
+                },
+                "created": {
+                    "$": "2020-01-01T00:00:00.000000"
+                },
+                "hasTarget": {
+                    "Description": {
+                        "about": "urn:word:ἐλαύνομαι"
+                    }
+                },
+                "title": {},
+                "hasBody": {
+                    "resource": "urn:uuid:idm2edef17cfe371111b882a34c8b5d2667dc3c172f3d631b5e30616e88c8cc6a74"
+                },
+                "Body": {
+                    "about": "urn:uuid:idm2edef17cfe371111b882a34c8b5d2667dc3c172f3d631b5e30616e88c8cc6a74",
+                    "type": {
+                        "resource": "cnt:ContentAsXML"
+                    },
+                    "rest": {
+                        "entry": {
+                            "uri": null,
+                            "dict": {
+                                "hdwd": {
+                                    "lang": "grc",
+                                    "$": "ἐλαύνω"
+                                },
+                                "pofs": {
+                                    "order": 1,
+                                    "$": "verb"
+                                }
+                            },
+                            "infl": [
+                                {
+                                    "term": {
+                                        "lang": "grc",
+                                        "stem": {
+                                            "$": "ἐλαῡν"
+                                        },
+                                        "suff": {
+                                            "$": "ομαι"
+                                        }
+                                    },
+                                    "pofs": {
+                                        "order": 1,
+                                        "$": "verb"
+                                    },
+                                    "mood": {
+                                        "$": "subjunctive"
+                                    },
+                                    "num": {
+                                        "$": "singular"
+                                    },
+                                    "pers": {
+                                        "$": "1st"
+                                    },
+                                    "tense": {
+                                        "$": "aorist"
+                                    },
+                                    "voice": {
+                                        "$": "middle"
+                                    },
+                                    "dial": {
+                                        "$": "epic"
+                                    },
+                                    "stemtype": {
+                                        "$": "aor1"
+                                    },
+                                    "derivtype": {
+                                        "$": "unw"
+                                    },
+                                    "morph": {
+                                        "$": "short_subj"
+                                    }
+                                },
+                                {
+                                    "term": {
+                                        "lang": "grc",
+                                        "stem": {
+                                            "$": "ἐλαῡν"
+                                        },
+                                        "suff": {
+                                            "$": "ομαι"
+                                        }
+                                    },
+                                    "pofs": {
+                                        "order": 1,
+                                        "$": "verb"
+                                    },
+                                    "mood": {
+                                        "$": "indicative"
+                                    },
+                                    "num": {
+                                        "$": "singular"
+                                    },
+                                    "pers": {
+                                        "$": "1st"
+                                    },
+                                    "tense": {
+                                        "$": "present"
+                                    },
+                                    "voice": {
+                                        "$": "mediopassive"
+                                    },
+                                    "stemtype": {
+                                        "$": "w_stem"
+                                    },
+                                    "derivtype": {
+                                        "$": "unw"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            }
+        }
+    }
+]
